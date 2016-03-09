@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Машина на Времето\_"
-datePublished: '2016-03-09T11:33:39.983Z'
-dateModified: '2016-03-09T11:27:47.320Z'
+datePublished: '2016-03-09T11:35:43.657Z'
+dateModified: '2016-03-09T11:33:43.717Z'
 title: ''
 author: []
 authors: []
@@ -19,7 +19,7 @@ publisher:
 sourcePath: _posts/2016-03-09-mashina-na-vremeto.md
 published: true
 url: mashina-na-vremeto/index.html
-_type: Article
+_type: Blurb
 
 ---
 Машина на Времето 
