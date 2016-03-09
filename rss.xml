@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Институт за развитие на съзнанието]]></title>
         <description><![CDATA[Институт за развитие на съзнанието]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/institut-za-razvitie-na-sznanieto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 11:26:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 11:28:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/institut-za-razvitie-na-sznanieto/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9478bdc-dd0e-4680-91eb-8d43a5ea28b8.jpg">]]></description>
-            <link>undefinedmashina-na-vremeto/index.html</link>
+            <link>https://thegrid.ai/institut-za-razvitie-na-sznanieto/mashina-na-vremeto/index.html</link>
             <guid isPermaLink="false">8234bec0-6ff2-4198-9572-19a6a7cc2fe7</guid>
-            <pubDate>Wed, 09 Mar 2016 11:26:40 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 11:27:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
