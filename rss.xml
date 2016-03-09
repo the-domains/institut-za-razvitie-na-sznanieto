@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Институт за развитие на съзнанието]]></title>
+        <description><![CDATA[Институт за развитие на съзнанието]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 11:38:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefined1a08be5a-ef32-4599-8d5f-10e99a1c5791/index.html</link>
+            <guid isPermaLink="false">1a08be5a-ef32-4599-8d5f-10e99a1c5791</guid>
+            <pubDate>Wed, 09 Mar 2016 11:37:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
