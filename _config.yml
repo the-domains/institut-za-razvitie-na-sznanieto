@@ -1,4 +1,4 @@
-name: Институт за развитие на съзнанието
+name: Consciousness development institute
 favicon: null
 layout_spectrum: 0.77209
 typography_spectrum: 0.82241
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#fffdfe'
-    - '#2c4542'
-    - '#538b88'
-    - '#b2bdae'
-  brandStrength: 0.3125
-  lightness: 0.625
-  saturation: 0.1875
-  rhythmicContrast: 0.5
+    - '#151539'
+    - '#3b74cb'
+    - '#8c9dc8'
+    - '#8bcffe'
+    - '#eafefd'
+  brandStrength: 0.4375
+  lightness: 0.9375
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
