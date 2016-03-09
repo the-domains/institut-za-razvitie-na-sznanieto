@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Машина на Времето\_"
-datePublished: '2016-03-09T11:35:43.657Z'
-dateModified: '2016-03-09T11:33:43.717Z'
+datePublished: '2016-03-09T12:54:58.661Z'
+dateModified: '2016-03-09T12:08:34.933Z'
 title: ''
 author: []
 authors: []
@@ -22,6 +22,8 @@ url: mashina-na-vremeto/index.html
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78f63a2c-c063-43cb-8650-279ebaafa82a.jpg)
+
 Машина на Времето 
 
-С Огледалата на Козирев пътуваме до всяка точка ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9478bdc-dd0e-4680-91eb-8d43a5ea28b8.jpg)
+С Огледалата на Козирев пътуваме до всяка точка
